@@ -9,16 +9,14 @@ This week, I reviewed the outline, learned the basics of laser cutting and 3D pr
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
 
----
+# Week 2: Report 2 #
+## Week of 09/04/2024
 
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
+This week, I
 
-Excited to work with you,
-your TDF teaching team
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
 
-PS: let us know if you have any questions!!
 
-PPS: 
 
 ## Quick Links, compiled here for your convenience: ##
 
