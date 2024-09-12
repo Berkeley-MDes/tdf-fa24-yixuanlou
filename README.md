@@ -1,5 +1,6 @@
 # Outline
 [week 1](README.md#week-1-report-1)
+[week 2](README.md#week-2-report-1)
 
 # Week 1: Report 1 #
 ## Week of 09/04/2024
@@ -9,7 +10,7 @@ This week, I reviewed the outline, learned the basics of laser cutting and 3D pr
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/week1_1.jpg">
 
 
-# Week 2: Report 2 #
+# Week 2: Report 1 #
 ## Week of 09/11/2024
 
 This week, I focused on adjusting the parameters for a phone stand model. I discovered that some changes resulted in noticeable variations, while others caused errors (I now understand that red indicates an error). After asking a classmate for help, I learned that pressing a specific button can reveal the function of certain components, which was very helpful in troubleshooting.
@@ -19,7 +20,7 @@ I followed a tutorial to create my own model, which was my first time working wi
 Additionally, I attended a 3D printing lecture. I’m excited about the possibility of one day printing a 3D object that I’ve designed myself.
 
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/week1_1.jpg">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/week2_1.jpg">
 
 
 ## Quick Links, compiled here for your convenience: ##
