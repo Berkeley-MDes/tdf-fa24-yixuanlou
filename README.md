@@ -7,7 +7,7 @@
 
 This week, I reviewed the outline, learned the basics of laser cutting and 3D printing, and completed the quiz. I also downloaded Rhino and started playing with Grasshopper. Since I’m not very familiar with it, I signed up for a Grasshopper workshop.
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/week1_1.jpg">
+<img width="400" alt="trying grasshopper" src="assets/week1_1.jpg">
 
 
 # Week 2: Report 1 #
