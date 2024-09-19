@@ -1,7 +1,7 @@
 # Outline
 [week 1](README.md#week-1-report-1)
 [week 2](README.md#week-2-report-1)
-[week 3](README.md#week-2-report-1)
+[week 3](README.md#week-3-report-1)
 
 # Week 3: Report 1 #
 ## Week of 09/19/2024
