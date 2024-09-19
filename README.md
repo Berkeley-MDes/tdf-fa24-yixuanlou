@@ -14,9 +14,7 @@ After further research and adjustments in Grasshopper, I resized and rebuilt the
 In addition to working on the model, I spent significant time creating a video to document and present my project. This video highlights the design process, the challenges I faced, and how I overcame them.
 This week, I tackled various challenges, from learning new software to debugging and iterating on my design. I also spent time producing a video to showcase the project. Overall, I gained valuable experience in both technical skills and project documentation, and I’m excited for the next steps, including the second print.
 
-<img width="400" alt="trying grasshopper" src="assets/week3_1.jpg">
-<img width="400" alt="trying grasshopper" src="assets/week3_2.jpg">
-<img width="400" alt="trying grasshopper" src="assets/week3_3.jpg">
+<img width="300" alt="trying grasshopper" src="assets/week3_1.jpg"> <img width="300" alt="trying grasshopper" src="assets/week3_2.jpg"> <img width="300" alt="trying grasshopper" src="assets/week3_3.jpg">
 
 
 # Week 2: Report 1 #
