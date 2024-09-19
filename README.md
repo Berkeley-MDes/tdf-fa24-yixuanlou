@@ -1,6 +1,19 @@
 # Outline
 [week 1](README.md#week-1-report-1)
 [week 2](README.md#week-2-report-1)
+[week 3](README.md#week-2-report-1)
+
+# Week 3: Report 1 #
+## Week of 09/19/2024
+Weekly Report
+
+This week, I began by researching necklace organizers. I found that while many designs look aesthetically pleasing, they don’t effectively prevent necklaces from tangling. This insight guided the direction of my project.
+I sketched a tangle-free necklace organizer design and set out to bring it to life using Rhino and Grasshopper for the first time. I spent a lot of time learning the basics, combining multiple tutorials to understand the software and apply it to my design.
+After hours of constructing and debugging, I completed my first model. However, the first 3D printing attempt failed due to incorrect sizing. I had to go back to Grasshopper to resize and rebuild the model.
+After further research and adjustments in Grasshopper, I resized and rebuilt the model to prepare for a second printing attempt. The revisions should address the sizing issues from the first print.
+In addition to working on the model, I spent significant time creating a video to document and present my project. This video highlights the design process, the challenges I faced, and how I overcame them.
+This week, I tackled various challenges, from learning new software to debugging and iterating on my design. I also spent time producing a video to showcase the project. Overall, I gained valuable experience in both technical skills and project documentation, and I’m excited for the next steps, including the second print.
+
 
 # Week 2: Report 1 #
 ## Week of 09/11/2024
