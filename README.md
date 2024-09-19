@@ -2,14 +2,6 @@
 [week 1](README.md#week-1-report-1)
 [week 2](README.md#week-2-report-1)
 
-# Week 1: Report 1 #
-## Week of 09/04/2024
-
-This week, I reviewed the outline, learned the basics of laser cutting and 3D printing, and completed the quiz. I also downloaded Rhino and started playing with Grasshopper. Since I’m not very familiar with it, I signed up for a Grasshopper workshop.
-
-<img width="400" alt="Cool Phone Stand made of rocks" src="assets/week1_1.jpg">
-
-
 # Week 2: Report 1 #
 ## Week of 09/11/2024
 
@@ -21,6 +13,14 @@ Additionally, I attended a 3D printing lecture. I’m excited about the possibil
 
 
 <img width="400" alt="trying grasshopper" src="assets/week2_1.jpg">
+
+# Week 1: Report 1 #
+## Week of 09/04/2024
+
+This week, I reviewed the outline, learned the basics of laser cutting and 3D printing, and completed the quiz. I also downloaded Rhino and started playing with Grasshopper. Since I’m not very familiar with it, I signed up for a Grasshopper workshop.
+
+<img width="400" alt="Cool Phone Stand made of rocks" src="assets/week1_1.jpg">
+
 
 
 ## Quick Links, compiled here for your convenience: ##
