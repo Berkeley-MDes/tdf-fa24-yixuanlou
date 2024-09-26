@@ -2,6 +2,17 @@
 [week 1](README.md#week-1-report-1)
 [week 2](README.md#week-2-report-1)
 [week 3](README.md#week-3-report-1)
+[week 4](README.md#week-4-report-1)
+
+# Week 4: Report 1 #
+## Week of 09/26/2024
+Weekly Report
+
+This map visualizes the interactions between my primary devices (Phone and Computer) and the apps I use daily, including YouTube, TikTok, Apple Music, Google Maps, Slack, and WeChat. It highlights the connections, information flow, and feedback loops within this ecosystem.
+Connections: The map shows how different apps are accessed from both my Phone and Computer. Some apps, like Google Maps, are primarily used on my Phone, while others, such as Slack and YouTube, are used on both devices.
+Information Flow: Arrows indicate the types of data or content that flow between devices and apps. For instance, YouTube sends video recommendations and notifications to both my Phone and Computer, while Google Maps delivers location data to my Phone.
+Feedback Loops: These loops represent how my actions, such as liking videos or skipping songs, feed back into the apps to influence future recommendations. For example, my preferences on TikTok affect the personalized content I see in the future.
+
 
 # Week 3: Report 1 #
 ## Week of 09/19/2024
