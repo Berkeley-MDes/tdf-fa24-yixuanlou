@@ -12,7 +12,7 @@ This map visualizes the interactions between my primary devices (Phone and Compu
 Connections: The map shows how different apps are accessed from both my Phone and Computer. Some apps, like Google Maps, are primarily used on my Phone, while others, such as Slack and YouTube, are used on both devices.
 Information Flow: Arrows indicate the types of data or content that flow between devices and apps. For instance, YouTube sends video recommendations and notifications to both my Phone and Computer, while Google Maps delivers location data to my Phone.
 Feedback Loops: These loops represent how my actions, such as liking videos or skipping songs, feed back into the apps to influence future recommendations. For example, my preferences on TikTok affect the personalized content I see in the future.
-
+<img width="400" alt="trying grasshopper" src="assets/week4_1.jpg">
 
 # Week 3: Report 1 #
 ## Week of 09/19/2024
