@@ -14,7 +14,9 @@ Even though I have a programming background, I am completely unfamiliar with the
 
 Additionally, I am working on figuring out the RGB LED color variations and trying to learn the differences. I feel a bit lost, as I find it challenging to grasp something entirely new, but I also feel a sense of excitement as I explore this. Despite these efforts, I’ve realized this isn’t a direction I particularly enjoy, and I feel like I’m not very good at it.
 
-<img width="400" alt="map" src="assets/week5_1.png">
+<img width="400" alt="map" src="assets/week5_1.JPG">
+<img width="400" alt="map" src="assets/week5_2.JPG">
+<img width="400" alt="map" src="assets/week5_3.JPG">
 
 # Week 4: Report 1 #
 ## Week of 09/26/2024
