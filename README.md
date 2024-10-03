@@ -3,6 +3,18 @@
 [week 2](README.md#week-2-report-1)
 [week 3](README.md#week-3-report-1)
 [week 4](README.md#week-4-report-1)
+[week 5](README.md#week-5-report-1)
+
+# Week 5: Report 1 #
+## Week of 10/03/2024
+
+This week, I attempted three practice exercises. I was able to quickly figure out the "Hello World" task. However, I got stuck for a long time on "Make it Blink." I couldn’t find the four corner buttons, and after asking a classmate for help, I realized I needed to modify the circuit diagram to use two buttons instead. At the same time, I encountered more issues when I tried to work on this at home.
+
+Even though I have a programming background, I am completely unfamiliar with the Particle board and the Arduino environment. I spent a lot of time trying to get everything connected, and while I did get the blink to work, it didn’t speed up as intended. I'm still troubleshooting this problem.
+
+Additionally, I am working on figuring out the RGB LED color variations and trying to learn the differences. I feel a bit lost, as I find it challenging to grasp something entirely new, but I also feel a sense of excitement as I explore this. Despite these efforts, I’ve realized this isn’t a direction I particularly enjoy, and I feel like I’m not very good at it.
+
+<img width="400" alt="map" src="assets/week5_1.png">
 
 # Week 4: Report 1 #
 ## Week of 09/26/2024
