@@ -4,6 +4,27 @@
 [week 3](README.md#week-3-report-1)
 [week 4](README.md#week-4-report-1)
 [week 5](README.md#week-5-report-1)
+[week 6](README.md#week-6-report-1)
+
+# Week 6: Report 1 #
+## Week of 10/10/2024
+Stemma QT Project: Individual Assignment
+
+This week, I focused extensively on the Stemma QT project, which involved both hardware and software components. The first task was to solder the Stemma QT interface board, an essential step to ensure proper communication between the sensors and the microcontroller. I faced a few challenges during the soldering process, especially in terms of maintaining clean connections and troubleshooting initial errors, but I worked closely with my classmates, and we supported each other in overcoming these difficulties.
+
+After completing the soldering, I moved on to the next phase: integrating the system using Visual Studio Code. This turned out to be more complex than expected, as I encountered several issues, including network connection problems and inconsistent sensor outputs. Initially, the system didn’t display any significant changes, which required deeper investigation into the firmware and sensor configurations. I spent considerable time troubleshooting, experimenting with mapping functions, and printing sensor values to the serial monitor to better understand the problem.
+
+These inconsistencies pushed me to collaborate even more closely with my classmates. We discussed potential solutions, and I invested extra hours revisiting the code and testing different approaches to stabilize the sensor outputs. By the end of the week, I had gained a much clearer understanding of the network and sensor integration, and I documented all findings to ensure smooth progression for the next stages of this assignment.
+
+Group Proposal: Smart Waste Disposal Robot
+
+In parallel with the Stemma QT project, my group and I have been working on a separate proposal for our team project, the Smart Waste Disposal Robot. This project aims to develop an autonomous waste disposal robot with emotional feedback, encouraging users to engage in more mindful waste management.
+
+Our group spent a lot of time discussing different aspects of the project. We identified three key inputs—ultrasonic sensors for detecting waste, an IMU for tracking movement, and cloud communication to report bin status. After several brainstorming sessions and long discussions, we finalized a detailed proposal, which outlines our project goals, system architecture, and planned experiments.
+
+We decided to divide responsibilities based on our individual strengths. I am focusing on managing the cloud communication aspect, ensuring that data from the sensors is transmitted effectively to the cloud and feedback is relayed back to the user. I’m also responsible for documentation and will be producing a video to showcase our progress.
+
+Our group decided to push beyond the initial concept by experimenting with new ideas, including emotional interactions and real-time feedback. We are all excited to explore these creative avenues and see how they enhance the user experience. Despite the challenges, I’m really proud of how our group came together to develop this proposal, and I’m confident it will guide us effectively through the implementation phase.
 
 # Week 5: Report 1 #
 ## Week of 10/03/2024
