@@ -24,9 +24,9 @@ We decided to divide responsibilities based on our individual strengths. I am fo
 
 Our group decided to push beyond the initial concept by experimenting with new ideas, including emotional interactions and real-time feedback. We are all excited to explore these creative avenues and see how they enhance the user experience. Despite the challenges, I’m really proud of how our group came together to develop this proposal, and I’m confident it will guide us effectively through the implementation phase.
 
+<img width="300" alt="map" src="assets/week6_2.JPG">
+<img width="300" alt="map" src="assets/week6_3.JPG">
 <img width="400" alt="map" src="assets/week6_1.JPG">
-<img width="400" alt="map" src="assets/week6_2.JPG">
-<img width="400" alt="map" src="assets/week6_3.JPG">
 <img width="400" alt="map" src="assets/week6_4.png">
 
 
