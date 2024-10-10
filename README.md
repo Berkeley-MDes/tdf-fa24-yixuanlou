@@ -16,8 +16,6 @@ After completing the soldering, I moved on to the next phase: integrating the sy
 
 These inconsistencies pushed me to collaborate even more closely with my classmates. We discussed potential solutions, and I invested extra hours revisiting the code and testing different approaches to stabilize the sensor outputs. By the end of the week, I had gained a much clearer understanding of the network and sensor integration, and I documented all findings to ensure smooth progression for the next stages of this assignment.
 
-Group Proposal: Smart Waste Disposal Robot
-
 In parallel with the Stemma QT project, my group and I have been working on a separate proposal for our team project, the Smart Waste Disposal Robot. This project aims to develop an autonomous waste disposal robot with emotional feedback, encouraging users to engage in more mindful waste management.
 
 Our group spent a lot of time discussing different aspects of the project. We identified three key inputs—ultrasonic sensors for detecting waste, an IMU for tracking movement, and cloud communication to report bin status. After several brainstorming sessions and long discussions, we finalized a detailed proposal, which outlines our project goals, system architecture, and planned experiments.
