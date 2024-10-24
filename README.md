@@ -5,6 +5,16 @@
 [week 4](README.md#week-4-report-1)
 [week 5](README.md#week-5-report-1)
 [week 6](README.md#week-6-report-1)
+[week 7](README.md#week-7-report-1)
+
+# Week 7: Report 1 #
+## Week of 10/17/2024
+project. We spent a lot of time brainstorming and discussing different ideas, exploring various possibilities before finally settling on a new challenge: using a breadboard as part of our design exploration. This was an exciting shift, as it pushed us to think creatively about how we could integrate it into our overall concept.
+
+After much discussion, we agreed on the idea of building a robot that "eats" trash and criticizes human waste management habits. This concept reflects our goal of addressing environmental issues while incorporating an interactive element that engages users. I took the lead in creating the diagram and drafting the proposal, both of which were crucial in solidifying our direction. We had several meetings where I contributed by refining the modeling and working on the basic web design layout to support our concept.
+
+At the same time, I have been diving deeper into learning how to program with a breadboard and exploring more advanced aspects of the Photon microcontroller. It’s been a rewarding challenge, and I feel like my technical skills are growing as a result. Overall, it was a busy but productive week, and I’m looking forward to seeing how we can further develop this project in the coming weeks.
+
 
 # Week 6: Report 1 #
 ## Week of 10/10/2024
