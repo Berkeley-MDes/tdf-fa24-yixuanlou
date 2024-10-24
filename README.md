@@ -10,6 +10,13 @@
 
 # Week 8: Report 1 #
 ## Week of 10/24/2024
+This week, my main responsibilities included setting up cloud communication, handling some of the 3D printing work, and creating and organizing the project’s PowerPoint presentation.
+
+Firstly, for the cloud communication, I successfully completed the setup of the cloud communication system. This involved configuring the Particle Photon 2 module to ensure that real-time updates on the trash bin’s status were sent to the cloud when it was full or emptied. This allowed for seamless monitoring and accurate data transmission.
+
+In terms of 3D printing, I contributed to the design and printing of the robot's key components. After an initial failure in the first print due to connection issues, I made adjustments to the design and improved the aesthetic and functionality of the trash bin cap. I also performed tests, such as servo and ultrasonic testing, to verify that the robot could autonomously detect waste and operate the lid for waste disposal.
+
+Lastly, I took charge of creating and organizing the PowerPoint presentation for the project. This involved designing slides that clearly communicated the system’s architecture, prototype development, emotional feedback features, and cloud-based monitoring. I made sure that the presentation had a consistent visual style and clearly conveyed the technical and social aspects of the project.
 
 
 # Week 7: Report 1 #
