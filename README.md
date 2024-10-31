@@ -7,6 +7,10 @@
 [week 6](README.md#week-6-report-1)
 [week 7](README.md#week-7-report-1)
 [week 8](README.md#week-8-report-1)
+[week 9](README.md#week-9-report-1)
+
+# Week 9: Report 1 #
+## Week of 10/31/2024
 
 # Week 8: Report 1 #
 ## Week of 10/24/2024
