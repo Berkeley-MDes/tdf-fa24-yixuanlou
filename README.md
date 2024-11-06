@@ -8,9 +8,19 @@
 [week 7](README.md#week-7-report-1)
 [week 8](README.md#week-8-report-1)
 [week 9](README.md#week-9-report-1)
+[week 10](README.md#week-10-report-1)
+
+# Week 10: Report 1 #
+## Week of 11/07/2024
+I began developing the final version of my interactive LLM portfolio, building on the knowledge and skills from the initial exercises. The core goal was to create a prototype capable of answering the eight targeted questions I had identified as essential for showcasing my work and experience. This development process involved a deeper integration of Retrieval-Augmented Generation (RAG) to enhance the model's ability to access and retrieve relevant external knowledge, which proved to be a critical addition for providing context-rich responses. RAG integration broadened the model’s knowledge base, making it especially useful for addressing factual and complex queries with a higher level of precision.
+In Experiment 3, I observed that RAG-enabled responses provided not only better context but also aligned more accurately with user intent, demonstrating the value of external knowledge retrieval in enhancing response depth.
+Alongside RAG, I introduced variable customization to fine-tune the model’s responses based on user preferences, such as adjusting the tone, formality, and detail of answers. This was particularly insightful in Experiment 4, where I explored how adjustable variables could make interactions feel more personalized. The flexibility allowed the model to dynamically shift its responses, creating a more user-centered experience. I prepared a presentation to explain the design choices, challenges, and the technical features integrated into this prototype. Presenting my work helped clarify the design logic, and it underscored the importance of instruction design in guiding model behavior. For example, in Experiment 2, adding structured instructions to the model's input significantly improved the relevance of responses, making it easier for the model to adhere to the intended direction of the query.
 
 # Week 9: Report 1 #
 ## Week of 10/31/2024
+I started with the foundational exercises to understand the ZeroWidth platform, which were instrumental in building my knowledge of interactive LLM development. These initial exercises included understanding how to use different model settings, structuring prompts, and exploring temperature adjustments. This exploration allowed me to see the immediate impact of model parameter changes on response quality. 
+For instance, adjusting the temperature setting in the Basic GPT Interaction experiment showed that lower temperatures resulted in more factual, consistent responses, while higher temperatures encouraged creative, varied answers, albeit sometimes at the expense of accuracy. This balance between precision and creativity became a key insight, as I considered how to apply it to different use cases in my project.
+Furthermore, I worked on basic error-handling functions, experimenting with ways the system could detect and address errors in real time. This led me to think critically about the importance of feedback processing and context adjustment in maintaining smooth, user-friendly interactions. In creating the system architecture diagram, I illustrated the core components: the "User Interface," "Knowledge Search" (using RAG for added depth), "Error Handling," "Output to User," "Feedback Processing," and "Context Adjustment." Each component serves a specific function in managing the flow of information from user input to output, and my initial focus on error handling and context maintenance set the stage for the more advanced development that would follow.
 
 # Week 8: Report 1 #
 ## Week of 10/24/2024
