@@ -9,6 +9,13 @@
 [week 8](README.md#week-8-report-1)
 [week 9](README.md#week-9-report-1)
 [week 10](README.md#week-10-report-1)
+[week 11](README.md#week-10-report-1)
+
+# Week 11: Report 1 #
+## Week of 11/07/2024
+This week, I focused on documenting the project by writing a comprehensive report that captured each stage of development, from initial exercises to the final prototype. This report allowed me to reflect deeply on the technical challenges and the solutions I employed to address them. For instance, I detailed how temperature settings impacted tone in responses, creating a nuanced balance between factual accuracy and creative freedom. The inclusion of retrieval-augmented generation was another critical highlight, as it expanded the model’s response range by drawing from a richer pool of external knowledge, proving especially useful for context-heavy answers. I also reflected on the experiment outcomes, noting how each component—temperature, instructions, RAG, and variable customization—contributed to an overall increase in response personalization and relevance.
+Additionally, I reviewed peer feedback on the project, which offered valuable insights into potential future directions. Feedback underscored the impact of well-crafted instruction design and the significance of variables in fine-tuning interactions to meet diverse user needs. This peer input inspired me to think about how I could further optimize the interaction flow, perhaps by refining feedback loops to make the model more adaptive in real time. The report process, along with peer insights, provided a comprehensive review of the project’s development, challenges, and successes, highlighting key takeaways such as the balance between creativity and precision, the depth added by RAG, and the importance of adaptive responses. Going forward, I am inspired to push the boundaries of LLM interaction by exploring even more complex and user-specific customization features.
+
 
 # Week 10: Report 1 #
 ## Week of 11/07/2024
